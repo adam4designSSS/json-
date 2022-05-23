@@ -7,9 +7,9 @@
     {
       "id": 500,
       "main": "Drizzle",
-      "description": "light ",
+      "description": "light intensity drizzle",
       "icon": "09d"
-    }
+    }intensity drizzle
   ],
   "base": "stations",
   "main": {
