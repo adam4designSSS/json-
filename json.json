@@ -5,7 +5,7 @@
   },
   "weather": [
     {
-      "id":400,
+      "id":500,
       "main": "Drizzle",
       "description": "light intensity drizzle",
       "icon": "09d"
